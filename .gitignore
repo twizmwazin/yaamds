@@ -1,0 +1,4 @@
+.vscode
+dist
+launcher/target
+launcher/Cargo.lock
